@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning penetration testing.
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rekl0w&show_icons=true&theme=tokyonight)![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekl0w&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rekl0w&show_icons=true&theme=tokyonight) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekl0w&theme=tokyonight)
 
 
 ## Contact Me
-------
+
 ![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=https://www.twitter.com/BatuhanTomo) ![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/batuhan-tomo/)
