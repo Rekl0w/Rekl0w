@@ -13,5 +13,5 @@
 
 ## Contact Me
 
-![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=https://www.twitter.com/BatuhanTomo) ![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/batuhan-tomo/)
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)(https://www.twitter.com/BatuhanTomo)] [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/batuhan-tomo/)]
 
