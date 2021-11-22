@@ -6,7 +6,9 @@
 - 🌱 I’m currently learning penetration testing.
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rekl0w&show_icons=true&theme=tokyonight) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekl0w&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rekl0w&show_icons=true&theme=tokyonight)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekl0w&theme=tokyonight)
 
 
 ## Contact Me
