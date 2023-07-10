@@ -54,7 +54,9 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekl0w&theme=tokyonight)
 
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Rekl0w&&style=flat-square" align="center" />
+</div>  
 
 
 
