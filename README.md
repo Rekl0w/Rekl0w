@@ -34,7 +34,7 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>
 </div>
 
-## Contact Me
+## Connect With Me
 
 <div align="center">
 <p align="left">
@@ -52,7 +52,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rekl0w&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rekl0w" style="height: 150px; margin-bottom: 20px /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekl0w&theme=tokyonight&hide_border=true" style="height: 150px; alt="rekl0w" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekl0w&theme=tokyonight" style="height: 150px; alt="rekl0w" /></p>
 </div>
 
 
