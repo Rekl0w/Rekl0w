@@ -47,7 +47,7 @@
 
 ## Github Stats  
 
-<div style="display: flex; align-items: center; gap: 5px;" >
+<div style="display: flex; align-items: center; gap: 5px; width: 100%;" >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rekl0w&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="rekl0w" style="height: 100px" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekl0w&theme=tokyonight&hide_border=true" style="height: 100px; alt="rekl0w" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rekl0w&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rekl0w" style="height: 100px; /></p>
