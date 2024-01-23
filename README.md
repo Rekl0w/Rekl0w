@@ -47,7 +47,7 @@
 
 ## Github Stats  
 
-<div style="display: flex; align-items: center; gap: 5px; width:100% " >
+<div style="display: flex; align-items: center; gap: 5px;" >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rekl0w&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="rekl0w" style="height: 150px" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rekl0w&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rekl0w" style="height: 150px; margin-bottom: 20px /></p>
