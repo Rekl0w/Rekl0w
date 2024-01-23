@@ -1,5 +1,6 @@
 ![ ∞-∞ ](https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rekl0w&label=Profile%20views&color=0e75b6&style=flat" alt="rekl0w" /> </p>
 
 # Hi, I'm Batuhan<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40" height="40" />
 
@@ -36,25 +37,21 @@
 ## Contact Me
 
 <div align="center">
-<a href="https://twitter.com/BatuhanTomo" target="_blank">
-<img style="margin: 10px" src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/batuhantomo" target="_blank">
-<img style="margin: 10px" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Rekl0w" target="_blank">
-<img style="margin: 10px" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Batuhan-Tomo" target="_blank">
-<img style="margin: 10px" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<p align="left">
+<a href="https://twitter.com/batuhantomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batuhantomo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/batuhan-tomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhan-tomo" height="30" width="40" /></a>
+<a href="https://instagram.com/batuhantomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="batuhantomo" height="30" width="40" /></a>
+<a href="https://medium.com/@batuhantomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@batuhantomo" height="30" width="40" /></a>
+</p>
 </div>  
 
 ## Github Stats  
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rekl0w&show_icons=true&theme=tokyonight)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rekl0w&show_icons=true&theme=dark&locale=en&layout=compact" alt="rekl0w" /></p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rekl0w&theme=tokyonight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rekl0w&show_icons=true&theme=dark&locale=en" alt="rekl0w" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekl0w&theme=dark" alt="rekl0w" /></p>
 
 
 
