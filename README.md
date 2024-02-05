@@ -55,7 +55,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekl0w&theme=tokyonight&hide_border=true" style="height: 150px;" alt="rekl0w" /></p>
 </div>
 
-## Blog posts
+## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Take a Step into the Web Development World with Next.js:](https://blog.stackademic.com/take-a-step-into-the-web-development-world-with-next-js-2a592fe7b6c7?source=rss-aaa8e0af089------2)
