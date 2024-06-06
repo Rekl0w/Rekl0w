@@ -53,10 +53,10 @@
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Powerful and Efficient State Management with Vue.js: Pinia Usage Guide](https://medium.com/@batuhantomo/powerful-and-efficient-state-management-with-vue-js-pinia-usage-guide-a5eddb0179e3?source=rss-aaa8e0af089------2)
-- [Take a Step into the Web Development World with Next.js:](https://medium.com/@batuhantomo/take-a-step-into-the-web-development-world-with-next-js-2a592fe7b6c7?source=rss-aaa8e0af089------2)
+- [Powerful and Efficient State Management with Vue.js: Pinia Usage Guide](https://blog.stackademic.com/powerful-and-efficient-state-management-with-vue-js-pinia-usage-guide-a5eddb0179e3?source=rss-aaa8e0af089------2)
+- [Take a Step into the Web Development World with Next.js:](https://blog.stackademic.com/take-a-step-into-the-web-development-world-with-next-js-2a592fe7b6c7?source=rss-aaa8e0af089------2)
 - [Next.js ile Web Geliştirme Dünyasına Adım Atın: SSR ve SSG ile İleri Seviye Performans ve SEO!](https://medium.com/@batuhantomo/next-js-ile-web-geli%C5%9Ftirme-d%C3%BCnyas%C4%B1na-ad%C4%B1m-at%C4%B1n-ssr-ve-ssg-ile-i%CC%87leri-seviye-performans-ve-seo-9e53feb20982?source=rss-aaa8e0af089------2)
-- [Your Go-To Solution for Mobile-Friendly Sliders: A Deep Dive into Glide.js](https://medium.com/@batuhantomo/your-go-to-solution-for-mobile-friendly-sliders-a-deep-dive-into-glide-js-912ba0b73e3d?source=rss-aaa8e0af089------2)
+- [Your Go-To Solution for Mobile-Friendly Sliders: A Deep Dive into Glide.js](https://blog.stackademic.com/your-go-to-solution-for-mobile-friendly-sliders-a-deep-dive-into-glide-js-912ba0b73e3d?source=rss-aaa8e0af089------2)
 - [Mobil Uyumlu Slider Oluşturmanın Yeni Adresi: Glide.js](https://medium.com/@batuhantomo/mobil-uyumlu-slider-olu%C5%9Fturman%C4%B1n-yeni-adresi-glide-js-16a23a89353c?source=rss-aaa8e0af089------2)
-- [Modern Web Development: A Guide to JavaScript Promise and Async/Await with Vue.js](https://medium.com/@batuhantomo/modern-web-development-a-guide-to-javascript-promise-and-async-await-with-vue-js-898cc42899a8?source=rss-aaa8e0af089------2)
+- [Modern Web Development: A Guide to JavaScript Promise and Async/Await with Vue.js](https://blog.stackademic.com/modern-web-development-a-guide-to-javascript-promise-and-async-await-with-vue-js-898cc42899a8?source=rss-aaa8e0af089------2)
 <!-- BLOG-POST-LIST:END -->
