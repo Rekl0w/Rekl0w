@@ -87,6 +87,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rekl0w&theme=tokyonight&hide_border=true" style="height: 150px;" alt="rekl0w" /></p>
 </div>
 
+## Dev Card
+<a href="https://app.daily.dev/rekl0w"><img src="https://api.daily.dev/devcards/v2/Uv0KKVAk6fejpTsgPJia0.png?type=wide&r=zhw" width="652" alt="Batuhan Tomo's Dev Card"/></a>
+
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
