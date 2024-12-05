@@ -88,7 +88,7 @@
 </div>
 
 ## Dev Card
-<a href="https://app.daily.dev/rekl0w"><img src="https://api.daily.dev/devcards/v2/Uv0KKVAk6fejpTsgPJia0.png?type=wide&r=zhw" width="652" alt="Batuhan Tomo's Dev Card"/></a>
+<a href="https://app.daily.dev/rekl0w" target="_blank" ref="noreferrer"><img style="width: 356px;" src="devcard.png" alt="DevCard"/></a>
 
 ## Latest Blog posts
 
