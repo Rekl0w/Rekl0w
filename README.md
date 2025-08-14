@@ -93,10 +93,10 @@
 ## Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Just Ship It”: Çünkü Neden Olmasın ?](https://medium.com/@batuhantomo/just-ship-it-%C3%A7%C3%BCnk%C3%BC-neden-olmas%C4%B1n-82f7f1a884ae?source=rss-aaa8e0af089------2)
+- [Software is Dead &lpar;!&rpar; What Are We Going to Do Now?](https://blog.stackademic.com/software-is-dead-what-are-we-going-to-do-now-a20628c95100?source=rss-aaa8e0af089------2)
 - [Yazılım bitti &lpar;!&rpar; Şimdi ne yapacağız ?](https://medium.com/@batuhantomo/yaz%C4%B1l%C4%B1m-bitti-%C5%9Fimdi-ne-yapaca%C4%9F%C4%B1z-eb114087989b?source=rss-aaa8e0af089------2)
 - [Model Context Protocol &lpar;MCP&rpar;: The Bridge That Gives AI Superpowers](https://blog.stackademic.com/model-context-protocol-mcp-the-bridge-that-gives-ai-superpowers-183a1ec0f6ba?source=rss-aaa8e0af089------2)
 - [Model Context Protocol &lpar;MCP&rpar;: AI’ya Süper Güçler Veren Köprü](https://medium.com/@batuhantomo/model-context-protocol-mcp-aiya-s%C3%BCper-g%C3%BC%C3%A7ler-veren-k%C3%B6pr%C3%BC-c118c8324ac3?source=rss-aaa8e0af089------2)
 - [Powerful and Efficient State Management with Vue.js: Pinia Usage Guide](https://blog.stackademic.com/powerful-and-efficient-state-management-with-vue-js-pinia-usage-guide-a5eddb0179e3?source=rss-aaa8e0af089------2)
-- [Take a Step into the Web Development World with Next.js:](https://blog.stackademic.com/take-a-step-into-the-web-development-world-with-next-js-2a592fe7b6c7?source=rss-aaa8e0af089------2)
-- [Next.js ile Web Geliştirme Dünyasına Adım Atın: SSR ve SSG ile İleri Seviye Performans ve SEO!](https://medium.com/@batuhantomo/next-js-ile-web-geli%C5%9Ftirme-d%C3%BCnyas%C4%B1na-ad%C4%B1m-at%C4%B1n-ssr-ve-ssg-ile-i%CC%87leri-seviye-performans-ve-seo-9e53feb20982?source=rss-aaa8e0af089------2)
 <!-- BLOG-POST-LIST:END -->
