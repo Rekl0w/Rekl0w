@@ -66,6 +66,38 @@
   </a>
 </p>
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=rekl0w&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
+## 💻 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=js,ts,go,py)](https://skillicons.dev)
+
+## 🎨 Frontend Frameworks & Libraries
+[![Frontend](https://skillicons.dev/icons?i=vue,nuxt,react,next,remix,threejs)](https://skillicons.dev)
+
+## 🎭 Markup & Styling
+[![Styling](https://skillicons.dev/icons?i=html,css,sass,tailwind,svg)](https://skillicons.dev)
+
+## 📦 State Management & Build Tools
+[![Tools](https://skillicons.dev/icons?i=redux,pinia,vite,webpack,npm,bun)](https://skillicons.dev)
+
+## ⚙️ Backend & Runtime
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://skillicons.dev)
+
+## 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,sqlite,supabase)](https://skillicons.dev)
+
+## 🐳 DevOps & Infrastructure
+[![DevOps](https://skillicons.dev/icons?i=docker,nginx,netlify,vercel,aws,cloudflare)](https://skillicons.dev)
+
+## 🔧 Version Control & CI/CD
+[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions)](https://skillicons.dev)
+
+## 🛠️ Developer Tools
+[![Dev Tools](https://skillicons.dev/icons?i=vscode,postman,notion,powershell,bash,sentry)](https://skillicons.dev)
+
+## 🖥️ Operating Systems & Platforms
+[![OS](https://skillicons.dev/icons?i=tensorflow,linux,ubuntu,apple)](https://skillicons.dev)
+
 ## Connect With Me
 
 <div align="center">
