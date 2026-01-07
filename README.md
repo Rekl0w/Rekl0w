@@ -63,3 +63,5 @@
 - [Model Context Protocol &lpar;MCP&rpar;: The Bridge That Gives AI Superpowers](https://blog.stackademic.com/model-context-protocol-mcp-the-bridge-that-gives-ai-superpowers-183a1ec0f6ba?source=rss-aaa8e0af089------2)
 - [Model Context Protocol &lpar;MCP&rpar;: AI’ya Süper Güçler Veren Köprü](https://medium.com/@batuhantomo/model-context-protocol-mcp-aiya-s%C3%BCper-g%C3%BC%C3%A7ler-veren-k%C3%B6pr%C3%BC-c118c8324ac3?source=rss-aaa8e0af089------2)
 <!-- BLOG-POST-LIST:END -->
+
+![My GitHub Game](game.gif)
